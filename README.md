@@ -3,7 +3,11 @@
 
 ## About me 👋
 
+## About me 👋
+
 My name is Supattra or Pat. I believe that working as a Quality Assurance Engineer is my passion. It's similar to playing a game of identifying faults. Tester passion will stick their nose into any situation!
+
+As a professional quality assurance engineer, I have experience designing and testing software development. I especially enjoy creating test plans, designing test coverage, and executing tests to guarantee that the entire system was executed.
 
 
 
@@ -16,9 +20,11 @@ My name is Supattra or Pat. I believe that working as a Quality Assurance Engine
 * [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - for better and easy formatting GitHub
 * [Postman](https://www.postman.com/) - API testing
 * [Pycharm](https://www.jetbrains.com/pycharm/) - IDE for Python
+* [intelliJ Idea](https://www.jetbrains.com/idea/) - IDE for Java
 * [Selenium](https://www.selenium.dev/)
 * [Robot framework](https://robotframework.org/)
 * [Visual Studio Code](https://code.visualstudio.com/) - practicing HTML5 and CSS
+
 
 
 ## A social media list
