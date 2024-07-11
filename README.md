@@ -3,8 +3,6 @@
 
 ## About me 👋
 
-## About me 👋
-
 My name is Supattra or Pat. I believe that working as a Quality Assurance Engineer is my passion. It's similar to playing a game of identifying faults. Tester passion will stick their nose into any situation!
 
 As a professional quality assurance engineer, I have experience designing and testing software development. I especially enjoy creating test plans, designing test coverage, and executing tests to guarantee that the entire system was executed.
