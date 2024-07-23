@@ -49,6 +49,7 @@ My top used programming languages are `Java` and `Python`. FYI!!
 
 
 ## Certificates
+* [Software Development Engineer in Test (SDET) Course](https://drive.google.com/file/d/1aep4_fekD-ccMCDTXw9KGJjuCRFXhCgP/view?usp=sharing)
 * [Learn Python](https://lnkd.in/gEK62NJ9)
 * [Programming Foundations: Software Testing/QA](https://lnkd.in/eDy8cPkF)
 
