@@ -48,6 +48,9 @@ My top used programming languages are `Java` and `Python`. FYI!!
 * SD Methodologies: Agile SCRUM
 
 
+## Certificates
+* [Learn Python](https://lnkd.in/gEK62NJ9)
+* [Programming Foundations: Software Testing/QA](https://lnkd.in/eDy8cPkF)
 
 ## A social media list
 
